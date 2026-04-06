@@ -1,0 +1,7 @@
+node_modules/
+dist/
+token.json
+credentials.json
+.env
+curl_gemini
+temp/*.swp
